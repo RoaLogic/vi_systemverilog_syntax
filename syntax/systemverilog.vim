@@ -47,7 +47,8 @@ syn keyword verilogStatement   rnmos rpmos rtran rtranif0 rtranif1
 syn keyword verilogStatement   scalared showcancelled signed small specify
 syn keyword verilogStatement   specparam strong0 strong1 supply0 supply1
 syn keyword verilogStatement   string struct super
-syn keyword verilogStatement   table task this time tran tanif0 tranif1
+syn keyword verilogStatement   table task this time timeunit timeprecision
+syn keyword verilogStatement   tran tanif0 tranif1
 syn keyword verilogStatement   tri tri0 tri1 triand trior trireg type typedef
 syn keyword verilogStatement   union unique unsigned use
 syn keyword verilogStatement   vectored virtual void 
