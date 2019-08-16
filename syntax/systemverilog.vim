@@ -25,7 +25,7 @@ syn keyword verilogStatement   bit buf bufif0 bufif1 byte
 syn keyword verilogStatement   cell class clocking cmos config const
 syn keyword verilogStatement   deassign defparam design disable do
 syn keyword verilogStatement   edge endclass endconfig endclocking endfunction endgenerate endinterface
-syn keyword verilogStatement   endmodule endpackage endprimitive endspecify endtable
+syn keyword verilogStatement   endmodule endpackage endprimitive endprogram endspecify endtable
 syn keyword verilogStatement   endtask enum event extends extern
 syn keyword verilogStatement   force foreach function
 syn keyword verilogStatement   generate genvar
@@ -38,7 +38,7 @@ syn keyword verilogStatement   nand negedge new nmos nor
 syn keyword verilogStatement   noshowcancelled not notif0 notif1
 syn keyword verilogStatement   or output
 syn keyword verilogStatement   package packed parameter pmos posedge primitive
-syn keyword verilogStatement   priority
+syn keyword verilogStatement   priority program
 syn keyword verilogStatement   pull0 pull1 pulldown pullup
 syn keyword verilogStatement   pulsestyle_onevent pulsestyle_ondetect
 syn keyword verilogStatement   pure
